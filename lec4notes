@@ -3,3 +3,6 @@ Notes on Functions in Python
 - Eg: type()
     - In this case, the name of the function is type
 - To define a new function, use def functionname(arguments)
+
+- Additional notes on functions:
+	- To denote the lines of the functions, use tabbed lines
