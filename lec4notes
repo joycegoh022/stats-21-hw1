@@ -1,0 +1,5 @@
+Notes on Functions in Python 
+- Function = name + parenthesis 
+- Eg: type()
+    - In this case, the name of the function is type
+- To define a new function, use def functionname(arguments)
