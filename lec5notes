@@ -2,3 +2,7 @@ Notes on Conditional Statements in Python
 - No () like in R, only use indentations.
 - Eg: if x == 0:
            print(x, 'is zero')
+
+- Additional notes on conditional statements:
+	- Best practice: avoid having conditionals within conditionals 
+	- Be concise and do 0<x<10 rather than 0>x and x<10
