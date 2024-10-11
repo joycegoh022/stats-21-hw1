@@ -1,0 +1,4 @@
+Notes on Conditional Statements in Python
+- No () like in R, only use indentations.
+- Eg: if x == 0:
+           print(x, 'is zero')
